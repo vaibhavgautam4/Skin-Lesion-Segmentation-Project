@@ -12,8 +12,6 @@ A  Deep Learning CNN based Segmentation project.
 pip install requirement.txt
 ```
 
-- the **requirement.txt** file will be added soon.
-
 - Once all the requirements are installed run the **main.py** python file.
 
 - As the structure may be not in sequence, you are advised to check your requirements and run the files accordingly.
