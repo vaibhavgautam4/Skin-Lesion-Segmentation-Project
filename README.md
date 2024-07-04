@@ -56,3 +56,16 @@ HAM10k provides us with Diverse Lesion Types. The dataset includes images of sev
 - Dermatofibroma (df)
 
 The MNIST HAM10k dataset can be found on [**HAM10k**](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/)
+
+
+
+## Citation
+
+```
+@misc{
+    DOI = {10.1007/s13198-024-02393-w},
+    Author = {Varun Srivastava and Shilpa Gupta and Ritik Singh and VaibhavKumar Gautam},
+    Title = {A multi-level closing based segmentation framework for dermatoscopic images using ensemble deep network},
+    Year = {2024},
+}
+```
